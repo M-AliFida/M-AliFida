@@ -1,4 +1,4 @@
-<img align="left" width="65=px" src="https://i.imgur.com/H7CyKqX.jpeg"> <h3>Hello</h3>
+<img align="left" width="70=px" src="https://i.imgur.com/H7CyKqX.jpeg"> <h3>Hello</h3>
 
 
 I'm Ali and I'm a *newbie* <br>
