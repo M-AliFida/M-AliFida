@@ -2,10 +2,7 @@
 
 
 I'm Ali.
-
-I want to **write code to solve big problems**, especially with regards to substainable agriculture. <br>
-I'm mostly comfortable with using **Python**. Currently learning  **Linux + Cloud Platforms (AWS, Azure etc.)** <br>
-
+I want to **write code to solve big problems** (energy and food)
 
 <!---
 M-AliFida/M-AliFida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
