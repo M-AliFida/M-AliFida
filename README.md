@@ -2,7 +2,7 @@
 
 
 I'm Ali.
-I want to **write code to solve big problems** (energy and food)
+I want to **write code to solve big problems** (energy + food). 
 
 <!---
 M-AliFida/M-AliFida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
