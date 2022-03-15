@@ -1,7 +1,8 @@
 <img align="left" width="70=px" src="https://i.imgur.com/H7CyKqX.jpeg"> <h3>Hello</h3>
 
 
-I'm Ali. I'm a *newbie* <br>
+I'm Ali.
+
 I want to **write code to solve big problems**, especially with regards to substainable agriculture. <br>
 I'm mostly comfortable with using **Python**. Currently learning  **Linux + Cloud Platforms (AWS, Azure etc.)** <br>
 
